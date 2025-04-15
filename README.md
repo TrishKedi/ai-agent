@@ -38,14 +38,15 @@ ai-agent/
    ```bash
    git clone https://github.com/TrishKedi/ai-agent.git
    cd ai-agent
+   ```
 
 2. Install dependencies:
     
-    ```pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 3. Run the application:
      
-     ```python app.py
+     ```python app.py```
 
 
 
