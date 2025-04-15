@@ -15,6 +15,7 @@ AI Agent is a Python-based project designed to create an intelligent agent capab
 
 ## Project Structure
 
+```
 ai-agent/
 ├── app.py                 # Main application script
 ├── document_loader.py     # Module for loading and preprocessing documents
@@ -22,6 +23,7 @@ ai-agent/
 ├── rag_chroma.py          # RAG implementation using Chroma
 ├── memory/                # Directory for memory management components
 └── __pycache__/           # Compiled Python files
+```
 
 
 ## Getting Started
