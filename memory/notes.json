@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "title": "Gym Preferences",
+      "tags": ["gym", "fitness"],
+      "content": "I prefer going to the gym early in the morning, ideally between 6:30 AM and 8:00 AM. Leg days are Mondays and Thursdays, upper body on Tuesdays. I avoid working out on weekends."
+    },
+    {
+      "id": "2",
+      "title": "Study Habits",
+      "tags": ["study", "productivity"],
+      "content": "I'm most productive studying between 9 AM and 12 PM or after 9 PM. I study 3-4 hours on weekdays and use spaced repetition with short breaks."
+    },
+    {
+      "id": "3",
+      "title": "Freelance Schedule",
+      "tags": ["freelance", "work"],
+      "content": "Client meetings usually happen on Wednesdays and Fridays between 2 PM and 5 PM. I prefer coding freelance tasks in the afternoon or early evening. Never schedule freelance work on Sundays."
+    },
+    {
+      "id": "4",
+      "title": "Weekly Routines",
+      "tags": ["routine", "weekend"],
+      "content": "I attend church every Sunday at 10 AM and take the rest of the day off. Saturdays are for errands and grocery shopping. Friday evenings are for relaxing or social time."
+    },
+    {
+      "id": "5",
+      "title": "Personal Goals",
+      "tags": ["goals", "self-improvement"],
+      "content": "I'm learning German and want to practice 30 minutes daily. Also dedicating 6–8 hours weekly for portfolio projects. I aim to sleep at least 7 hours a night."
+    }
+  ]
+  
